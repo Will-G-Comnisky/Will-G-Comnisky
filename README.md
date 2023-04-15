@@ -1,4 +1,4 @@
-# Hi, i'm Will! Glad you're here! ☺️
+# Hi, I'm Will! Glad you're here! ☺️
 
 - 🌱 I’m currently learning HTML, CSS, Javascript, SASS and developing websites to practice my skills in front end developing.
 - 📝 I'm currently studying Analysis and Systems Development, and also a Front End Enginner vocational course.
