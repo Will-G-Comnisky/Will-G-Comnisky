@@ -1,10 +1,10 @@
 # Hi, I'm William! Glad you're here! ☺️
 
-- 🌱 I’m currently learning React, Node.js, NextJS, Python and developing websites to practice my skills in front-end and back-end developing.
-- 📝 I'm currently studying Analysis and Systems Development (Associate Degree), and also a Front End Enginner vocational course.
+- 🌱 I’m currently learning React and some frameworks such as NextJS, developing websites to practice my skills in front-end and also studying back-end developing with C# .NET.
+- 📝 I'm currently studying Analysis and Systems Development (Associate Degree), a Front End Enginner vocational course and C# .NET with Balta.io.
 - ⚡ Fun fact: I'm a civil engineer! Just finished my Bachelors degree in Civil Engineering in Dec/2023.
 - 🎯 My goal: To become an exceptional web developer, being able to develop full stack websites and apps, and also proficiently utilizing Wordpress and similar technologies for simpler websites.
-- 📊 Recenlty I also started learning about Data Science and Data Analytics, using Power BI, Excel, Python and R.
+- 📊 Recenlty I also started learning about Data Science and Data Analytics, using Power BI, Excel and Python.
 
 ## I can help with:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"   width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" />         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" />
